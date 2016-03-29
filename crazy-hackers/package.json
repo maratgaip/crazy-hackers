@@ -1,0 +1,11 @@
+{
+  "name": "crazy-hackers",
+  "version": "1.0.0",
+  "description": "Crazy Hackers Repo for our own Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Marat Gaipov",
+  "license": "ISC"
+}
